@@ -1,0 +1,132 @@
+/* ============== COMMON STYLES ============== */
+.list {
+  list-style-type: none;
+}
+
+.link {
+  text-decoration: none;
+}
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+body{
+font-family: 'Roboto', sans-serif;
+color:#434455;
+background-color: #ffffff ;
+}
+
+.accent-color {
+  color:#F4F4FD;
+}
+.accent-color-header{
+color:#2E2F42;
+}
+/* ============== /COMMON STYLES ============== */
+/* ============== HEADER STYLES ============== */
+.logotype { 
+font-family: 'Raleway', sans-serif;
+ font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17 /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color:#4D5AE5;
+}
+
+
+.menu-link {
+  
+
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.menu-link:hover, 
+.menu-link:focus {
+  color: #404BBF
+
+}
+
+.contact-list-link {
+
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.02em;
+color: #434455
+}
+.contact-list-link:hover,
+.contact-list-link:focus {
+color: #404BBF
+}
+
+/* ============== /HEADER STYLES ============== */
+/* ============== HERO STYLES ============== */
+.hero{
+  background-color: #2E2F42;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07; /* 107.143% */
+letter-spacing: 0.02em;
+  color: #ffffff
+}
+.order-service-btn {
+font-size: 16px;
+font-weight: 500;
+background-color: #4D5AE5;
+color:#ffffff;
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+  background-color:#404BBF;
+color:#ffffff;
+}
+/* ============== /HERO STYLES ============== */
+/* ============== BENEFITS STYLES ============== */
+.benefits-list-title{
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.02em;
+color: #2E2F42
+}
+.p{
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.02;
+color:#434455;
+}
+
+.section-title{
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11; /* 111.111% */
+letter-spacing: 0.02;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.team-list-item {
+border-radius: 0px 0px 4px 4px;
+background: #ffffff;
+}
+
+h3{
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.02;
+color: #2E2F42;
+}
+
+.page-footer{
+  background-color: #2E2F42;
+  color: #F4F4FD
+}
