@@ -50,6 +50,8 @@ body {
 
 .contact-list-link {
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .contact-list-link:hover,
@@ -74,6 +76,7 @@ body {
   font-weight: 700;
   line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 
